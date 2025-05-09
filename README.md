@@ -1,2 +1,7 @@
 # CIS110-Final
+Project Overview:
 Computer science is a male-dominated field in the United States, which in turn discourages young women from pursuing careers in computer science. It is not common knowledge that many important women in history played a key role in pioneering computer technologies. For my final project, I will be creating a PowerPoint presentation highlighting the important role women have had and continue to have in computer science, as well as discussing key female figures in history that have had an impact on the development of computer technologies. I believe that for young women, it is extremely important to recognize that women have played a key role in technological fields. I have always found my computer science classes intimidating as a woman because male students have always talked down to me and treated me like I am less knowledgeable than them, and I know countless other women have dealt with the same thing. Learning that women have had such a key role in the development of computer technologies gives me a sense of belonging in this field, and I hope other women and young girls will feel the same way.  
+My objectives are to:
+Educate viewers about the gender gap in computer technology.
+Discuss the causes of this gender gap.
+Highlight key female figures in history and the modern age who have had great impacts in computer technologies.
